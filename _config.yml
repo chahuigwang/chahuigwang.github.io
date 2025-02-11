@@ -31,7 +31,7 @@ github:
 # twitter:
 #   username: twitter_username # change to your Twitter username
 
-twitter:
+instagram:
   username: chahuigwang # change to your Instagram username
 
 social:
@@ -43,6 +43,7 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/chahuigwang # change to your GitHub homepage
+    - https://www.instagram.com/chahuigwang
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
