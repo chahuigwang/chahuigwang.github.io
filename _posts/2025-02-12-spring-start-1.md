@@ -30,6 +30,7 @@ tags: [spring]
 {: .prompt-info }
 
 ### Controller
+
 ```java
 @Controller
 public class HelloController {
@@ -41,8 +42,10 @@ public class HelloController {
 	}
 }
 ```
+
 ### View
 `resources/templates/hello-template.html`
+
 ```html
 <html xmlns:th="http://www.thymeleaf.org">
 <body>
@@ -50,6 +53,7 @@ public class HelloController {
 </body>
 </html>
 ```
+
 - 실행 
   - `http://localhost:8080/hello-mvc?name=spring`
 
@@ -57,6 +61,7 @@ public class HelloController {
 
 ## API
 **@ResponseBody 문자 반환**
+
 ```java
 @Controller
 public class HelloController {
@@ -68,10 +73,12 @@ public class HelloController {
     }
 }
 ```
+
 - `@ResponseBody` 를 사용하면 뷰 리졸버(`viewResolver` )를 사용하지 않음
 - 대신에 HTTP의 BODY에 문자 내용을 직접 반환
 
 **@ResponseBody 객체 반환**
+
 ```java
 @Controller
 public class HelloController {
@@ -97,6 +104,7 @@ public class HelloController {
     }
 }
 ```
+
 - `@ResponseBody` 를 사용하고, 객체를 반환하면 객체가 JSON으로 변환됨
 
 ![](/assets/img/posts/spring-start-1-3.png)
