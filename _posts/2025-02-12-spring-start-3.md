@@ -3,6 +3,7 @@ title: 스프링 빈과 의존관계
 date: 2025-02-12 21:59:00 +0900
 categories: [Spirng, Spring 입문]
 tags: [spring]
+pin: true
 ---
 
 # Spring 입문 - 스프링 빈과 의존관계
