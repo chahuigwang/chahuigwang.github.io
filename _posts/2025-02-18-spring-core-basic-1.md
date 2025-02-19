@@ -1,6 +1,6 @@
 ---
 title: 객체 지향 설계와 스프링
-date: 2025-02-14 19:38:00 +0900
+date: 2025-02-18 22:13:00 +0900
 categories: [Spring, Spring 핵심 원리(기본편)]
 tags: [spring]
 ---
