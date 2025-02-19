@@ -1,7 +1,7 @@
 ---
 title: AOP
 date: 2025-02-14 17:52:00 +0900
-categories: [Spirng, Spring 입문]
+categories: [Spring, Spring 입문]
 tags: [spring]
 ---
 

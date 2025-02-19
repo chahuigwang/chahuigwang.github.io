@@ -1,7 +1,7 @@
 ---
 title: Spring 웹 개발 기초
 date: 2025-02-12 16:12:00 +0900
-categories: [Spirng, Spring 입문]
+categories: [Spring, Spring 입문]
 tags: [spring]
 ---
 

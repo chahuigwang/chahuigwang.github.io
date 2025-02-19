@@ -1,7 +1,7 @@
 ---
 title: 스프링 DB 접근 기술
 date: 2025-02-14 16:54:00 +0900
-categories: [Spirng, Spring 입문]
+categories: [Spring, Spring 입문]
 tags: [spring]
 ---
 

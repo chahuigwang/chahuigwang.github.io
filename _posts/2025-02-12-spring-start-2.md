@@ -1,7 +1,7 @@
 ---
 title: 백엔드 개발
 date: 2025-02-12 21:37:00 +0900
-categories: [Spirng, Spring 입문]
+categories: [Spring, Spring 입문]
 tags: [spring]
 image: /assets/img/posts/spring-start-2-1-cropped.png
 pin: true
