@@ -21,6 +21,7 @@ tags: [algorithm]
 ![](/assets/img/posts/graph.png)
 - 방문 기준: 번호가 낮은 인접 노드부터
 - 시작 노드: 1
+- 방문 순서: `1 2 7 6 8 3 4 5 8`
 
 
 #### Stack을 이용한 구현
@@ -107,6 +108,7 @@ dfs(graph, 1, visited)
 ![](/assets/img/posts/graph.png)
 - 방문 기준: 번호가 낮은 인접 노드부터
 - 시작 노드: 1
+- 방문 순서: `1 2 3 8 7 4 5 6`
 
 ```python
 from collections import deque
