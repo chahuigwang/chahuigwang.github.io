@@ -23,6 +23,7 @@ tags: [algorithm]
 
 ## Example) 피보나치 수열
 ![](/assets/img/posts/fibonacci.png)
+> 피보나치 수열은 다이나믹 프로그래밍의 사용 조건(**최적 부분 구조, 중복되는 부분 문제**)을 만족한다.
 
 #### 단순 재귀 소스코드(Python)
 ```python
