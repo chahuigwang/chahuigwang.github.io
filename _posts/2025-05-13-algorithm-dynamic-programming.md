@@ -1,7 +1,7 @@
 ---
 title: 다이나믹 프로그래밍(Dynamic Programming)
 date: 2025-05-13 20:18:00 +0900
-categories: [Algorithm, Algorithms]
+categories: [Algorithm]
 tags: [algorithm]
 ---
 

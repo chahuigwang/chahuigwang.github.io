@@ -1,7 +1,7 @@
 ---
 title: DFS & BFS
 date: 2025-03-06 20:37:00 +0900
-categories: [Algorithm, Algorithms]
+categories: [Algorithm]
 tags: [algorithm]
 ---
 
