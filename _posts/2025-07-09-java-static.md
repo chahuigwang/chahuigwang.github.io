@@ -1,6 +1,6 @@
 ---
 title: Java - static
-date: 2025-07-10 19:38:00 +0900
+date: 2025-07-09 19:38:00 +0900
 categories: [Programming Languages, Java]
 tags: [java]
 ---
