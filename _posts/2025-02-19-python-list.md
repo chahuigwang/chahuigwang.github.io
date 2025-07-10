@@ -1,8 +1,8 @@
 ---
 title: 파이썬 리스트 관련 함수
 date: 2025-02-19 22:27:00 +0900
-categories: [Algorithm, Python]
-tags: [algorithm, python]
+categories: [Programming Languages, Python]
+tags: [programming languages, python]
 ---
 
 # 파이썬 리스트 관련 함수

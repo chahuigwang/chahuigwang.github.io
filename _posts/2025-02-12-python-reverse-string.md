@@ -1,8 +1,8 @@
 ---
 title: 파이썬 문자열 뒤집기
 date: 2025-02-12 23:37:00 +0900
-categories: [Algorithm, Python]
-tags: [algorithm, python]
+categories: [Programming Languages, Python]
+tags: [python]
 ---
 
 # 파이썬 문자열 뒤집기(Slicing 활용)
