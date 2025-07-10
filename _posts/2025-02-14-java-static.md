@@ -1,7 +1,7 @@
 ---
 title: Java - static
 date: 2025-02-14 19:38:00 +0900
-categories: [Java]
+categories: [Programming Languages, Java]
 tags: [java]
 ---
 
