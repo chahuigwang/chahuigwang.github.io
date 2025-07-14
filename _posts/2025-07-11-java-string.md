@@ -5,9 +5,8 @@ categories: [Programming Languages, Java]
 tags: [java]
 ---
 
-# Java 문자열 관련 Method
+# String 관련 Method
 ---
-## String 관련 Method
 - length() - 문자열의 길이
 - isEmpty() - 문자열이 비었는지 확인
 
