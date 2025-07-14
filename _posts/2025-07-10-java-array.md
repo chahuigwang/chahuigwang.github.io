@@ -5,7 +5,7 @@ categories: [Programming Languages, Java]
 tags: [java]
 ---
 
-# Java 배열
+# 배열(Array)
 ---
 ## 배열의 선언과 생성
 ```java
