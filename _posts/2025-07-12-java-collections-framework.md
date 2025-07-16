@@ -1,6 +1,6 @@
 ---
 title: Java - 컬렉션 프레임워크
-date: 2025-07-13 18:15:00 +0900
+date: 2025-07-12 18:15:00 +0900
 categories: [Programming Languages, Java]
 tags: [java]
 image: /assets/img/posts/CollectionsFramework.png
