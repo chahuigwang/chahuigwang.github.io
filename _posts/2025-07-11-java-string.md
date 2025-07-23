@@ -30,7 +30,7 @@ tags: [java]
 
 
 <br>
-- contains(String str) - 특정 문자열이 포함되어있는지 여부
+- contains(CharSequence key) - 특정 문자열이 포함되어있는지 여부
 - equals(Object anObject) - 문자열 내용 비교
 - split(String delimiter) - 문자열을 특정 구분자(delimiter)로 나누어 배열로 반환
 - trim() - 문자열 앞뒤의 공백 제거
