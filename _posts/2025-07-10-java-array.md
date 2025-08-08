@@ -1,5 +1,5 @@
 ---
-title: Java - array
+title: Java - 배열
 date: 2025-07-10 17:14:00 +0900
 categories: [Programming Languages, Java]
 tags: [java]
