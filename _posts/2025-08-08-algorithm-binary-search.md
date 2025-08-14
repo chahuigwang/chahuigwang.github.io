@@ -5,12 +5,12 @@ categories: [Algorithm]
 tags: [algorithm]
 ---
 
-# 이진 탐색(Binary Search)
+# 이분 탐색(Binary Search)
 ---
-이진 탐색 : **정렬되어 있는** 리스트에서 **탐색 범위를 절반씩 좁혀가며 데이터를 탐색**하는 방법
+이분 탐색 : **정렬되어 있는** 리스트에서 **탐색 범위를 절반씩 좁혀가며 데이터를 탐색**하는 방법
 - 시작점, 끝점, 중간점을 이용하여 탐색 범위를 설정
 
-### 이진 탐색 구현 소스코드
+### 이분 탐색 구현 소스코드
 ```java
 int binarySearch(int[] arr, int target, int start, int end) {
     while(start <= end) {
