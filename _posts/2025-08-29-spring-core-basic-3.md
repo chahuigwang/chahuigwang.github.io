@@ -1,6 +1,6 @@
 ---
 title: 싱글톤 컨테이너
-date: 2025-08-28 21:26:00 +0900
+date: 2025-08-29 21:26:00 +0900
 categories: [Spring, Spring 핵심 원리(기본편)]
 tags: [spring]
 ---
