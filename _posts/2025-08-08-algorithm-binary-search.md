@@ -1,7 +1,7 @@
 ---
 title: Binary Search
 date: 2025-08-08 23:09:00 +0900
-categories: [Algorithm]
+categories: [Algorithm, 알고리즘]
 tags: [algorithm]
 ---
 
