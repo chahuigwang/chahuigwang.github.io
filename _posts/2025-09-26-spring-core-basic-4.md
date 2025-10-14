@@ -15,7 +15,25 @@ tags: [spring]
 
 ## 컴포넌트 스캔과 의존관계 자동 주입 시작하기
 - 스프링은 설정 정보가 없어도 자동으로 스프링 빈을 등록하는 컴포넌트 스캔이라는 기능을 제공한다.
-- 의존관계도 자동으로 주입하는 `@Autowired` 라는 기능도 제공한다.
+- 의존관계도 자동으로 주입하는 `@Autowired` 라는 기능도 제공한다.  
+
+**AutoAppConfig.java**
+```java
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.FilterType;
+
+import static org.springframework.context.annotation.ComponentScan.*;
+
+@Configuration
+@ComponentScan(
+        excludeFilters = @Filter(type = FilterType.ANNOTATION, classes = Configuration.class)
+)
+public class AutoAppConfig {
+
+}
+```
+
 - 컴포넌트 스캔을 사용하려면 `@ComponentScan` 을 설정 정보에 붙여주면 된다.
 - 컴포넌트 스캔은 이름 그대로 `@Component` 애노테이션이 붙은 클래스를 스캔해서 스프링 빈으로 등록한다.
 - 각 클래스가 컴포넌트 스캔의 대상이 되도록 `@Component` 애노테이션을 붙여주자.
