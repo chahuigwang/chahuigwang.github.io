@@ -238,7 +238,7 @@ public class LogDemoService {
 
 - 스프링 애플리케이션을 실행하는 시점에 싱글톤 빈은 생성해서 주입이 가능하지만, request 스코프 빈은 아직 생성되지 않는다.
 - request 스코프 빈은 클라이언트의 요청이 와야 생성할 수 있다.
-- request 스코프 빈을 주입받기 위해서 Provider 또는 Proxy를 이용할 수 있다.
+- Provider 또는 Proxy를 이용해 이를 해결할 수 있다.
 
 ### 스코프와 Provider
 ```java
