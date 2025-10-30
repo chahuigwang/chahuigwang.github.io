@@ -36,7 +36,7 @@ tags: [java]
 - stream()은 해당 컬렉션을 소스로 하는 스트림을 반환한다.
   `Stream<T> Collection.stream()`
 
-## **Optional&lt;T&gt;
+## **Optional&lt;T&gt;**
 - Optional&lt;T&gt;은 제네릭 클래스로 'T 타입의 객체'를 감싸는 Wrapper 클래스이다.
 - 최종 연산의 결과를 그냥 반환하는 게 아니라 Option 객체에 담아서 반환하면, 반환된 결과가 null인지 매번 if문으로 체크하는 대신 Optional에 정의된 메서드를 통해서 간단히 처리할 수 있다.
 
