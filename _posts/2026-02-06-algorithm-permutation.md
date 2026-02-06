@@ -1,5 +1,5 @@
 ---
-title: Permutaion
+title: 순열
 date: 2026-02-06 09:06:00 +0900
 categories: [Algorithm, 알고리즘]
 tags: [algorithm]
@@ -95,5 +95,4 @@ public class Permutation {
         }
     }
 }
-
 ```
